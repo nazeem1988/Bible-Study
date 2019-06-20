@@ -38,7 +38,7 @@ h2::first-letter {
    font-weight: bold;
    font-family: cursive;
    padding-right: 2px;
-   color: blue;
+   color: rgb(181, 218, 21);
 }
 .navbar.scrolled {
     background: rgba(226, 220, 226,0.9);
